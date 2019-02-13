@@ -28,6 +28,21 @@ body{
 .content{
     margin:50px;
 }
+#content{
+    border-style: solid 2px;
+    margin:100px;
+    padding:10px;
+    background-color: white;
+    border-radius:2%;
+}
+
+#form{
+    border-style: solid 2px;
+    margin:100px;
+    padding:10px;
+    background-color: white;
+    border-radius: 2%;
+}
 
 #clearfix{
     clear:both;
